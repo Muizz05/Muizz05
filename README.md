@@ -1,19 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Muizz05/Muizz05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<Hi, I'm muizz,a passionate Data Analyst with years of experience in driving business growth through data-driven insights.
 
-Here are some ideas to get you started:
+*Skills*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analysis and Visualization (Tableau, Power BI)
+- SQL,Excel 
+- Statistical Modeling and Machine Learning
+- Business Acumen and Communication
+
+*Projects*
+
+- [Project 1: HR Attrition Analysis](link to project)
+- [Project 2: Super Store Sales Analysis](link to project)
+- [Project 3: Disease Records Analysis](link to project)
+
+*Connect with Me*
+
+* LinkedIn: https://www.linkedin.com/in/muizzsikiru
+* Telegram: https://t.me/muizz005
+* Twitter: https://x.com/muizz003
+* E-mail: Sikirumuizz@gmail.com
+
+
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
