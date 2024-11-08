@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<Hi, I'm muizz,a passionate Data Analyst with years of experience in driving business growth through data-driven insights.
+Hi, I'm muizz,a passionate Data Analyst with years of experience in driving business growth through data-driven insights.
 
 *Skills*
 
