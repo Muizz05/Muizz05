@@ -6,7 +6,7 @@ Hi, I'm muizz,a passionate Data Analyst with years of experience in driving busi
 
 - Data Analysis and Visualization (Tableau, Power BI)
 - SQL,Excel 
-- Statistical Modeling and Machine Learning
+- Statistical Modeling 
 - Business Acumen and Communication
 
 *Projects*
