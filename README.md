@@ -11,7 +11,8 @@ Hi, I'm muizz,a passionate Data Analyst with years of experience in driving busi
 
 *Projects*
 
-- [Project 1: HR Attrition Analysis](https://medium.com/@sikirumuizz/attrition-analysis-report-07eaa1f63052)
+- [Project 1: HR Attrition Analysis]
+- (https://medium.com/@sikirumuizz/attrition-analysis-report-07eaa1f63052)
 
 - 
 - [Project 2: Super Store Sales Analysis] (https://medium.com/@sikirumuizz/superstore-sales-analysis-a-data-driven-approach-to-business-growth-9e8d9666ba37)
